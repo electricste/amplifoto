@@ -8,7 +8,7 @@ In this workshop we'll learn how to build cloud-enabled mobile applications with
 
 The mobile app we will be building is a "classic" photo sharing social network that allows you to sign up, sign in, create posts, view posts that you have created as well as others. Also it has a built-in capability of automatically apply hashtags on posts based on the image contents, thanks to AI services provided by AWS. Last, but not least, the app will have an Analytics component to get user behaviour and app metrics. 
 
-![](banner.jpg)
+![](screenshots.jpg)
 
 ### Debugging
 
