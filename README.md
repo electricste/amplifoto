@@ -1,4 +1,4 @@
-# Mobile Cloud App Development with Expo and AWS Amplify
+# Mobile App Development in 60 minutes with Expo and AWS Amplify
 
 This is the repository for the AWS Italy Tech Talk presented on July 2020 on how to create your Mobile-first serverless app in 60 minutes.
 
