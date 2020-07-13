@@ -2,9 +2,11 @@
 
 This is the repository for the AWS Italy Tech Talk presented on July 2020 on how to create your Mobile-first serverless app in 60 minutes.
 
+![](banner.jpg)
+
 In this workshop we'll learn how to build cloud-enabled mobile applications with React Native & [AWS Amplify](https://aws-amplify.github.io/).
 
-The app we will be building is a basic Instagram clone that allows you to sign up, sign in, create posts, view posts that you have created as well as others. Also it has a built-in capability of automatically apply hashtags on posts based on the image contents, thanks to AI services provided by AWS. Last, but not least, the app will have an Analytics component to get user behaviour and app metrics. 
+The mobile app we will be building is a "classic" photo sharing social network that allows you to sign up, sign in, create posts, view posts that you have created as well as others. Also it has a built-in capability of automatically apply hashtags on posts based on the image contents, thanks to AI services provided by AWS. Last, but not least, the app will have an Analytics component to get user behaviour and app metrics. 
 
 ![](banner.jpg)
 
